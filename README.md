@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Simon Pasag You Can Call me Mon.
+- 👋 Hi, I’m Simon Pasag you can call me Mon.
 - 👀 I’m interested in Coding particularly in Front-End Development.
 - 🌱 I’m currently learning React.Js Framework
 - 💞️ I’m looking to collaborate soon
