@@ -15,7 +15,7 @@ I create responsive, user-first web applications with clean design and solid fun
 
 ## 📂 Featured Projects  
 
-### [Diverse Oral Core – Dental Clinic Platform](https://diverseoralcore.vercel.app/book)  
+### [Diverse Oral Core – Dental Clinic Platform](https://diverseoralcore.vercel.app)  
 - Vue.js, Firebase Realtime Database, Google Maps API  
 - Built booking system with Google Maps integration  
 - Real-time appointment management with patient records  
