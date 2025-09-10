@@ -1,5 +1,5 @@
 # Hi, I'm Simon 👋  
-Front-End Developer | Web Developer  
+Web Developer | UI/UX Designer  
 
 I create responsive, user-first web applications with clean design and solid functionality.  
 
