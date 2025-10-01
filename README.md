@@ -1,7 +1,7 @@
 # Hi, I'm Simon 👋  
 Web Developer | UI/UX Designer  
 
-I create responsive, user-first web applications with clean design and solid functionality.  
+I craft responsive websites where clean design meets clean code. Turning ideas into pixel-perfect Web experiences.
 
 ---
 
