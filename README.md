@@ -1,22 +1,15 @@
-<div style="position: relative; width: 100%; max-width: 800px; margin: 0 auto; text-align: center;">
-  <div>
-  <h1><span class="wave">👋</span> Hey there! I'm Mon</h1>
+<div align="center">
+  
+  <h1>👋 Hey there! I'm Mon</h1>
   <p><i>A simple guy</i></p>
-</div>
 
-  <div style="position: absolute; right: 0; top: 50%; transform: translateY(-50%);">
-    <img src="https://i.pinimg.com/originals/32/f5/25/32f5259dda24e6426fef7a0853a55039.gif" width="150" />
-  </div>
-</div>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Welcome+to+my+GitHub!;Web+developer+building+practical+solutions." />
-</p>
-
-<!-- Card -->
-<p align="center">
-  <img src="card.svg" style="width: 100%; max-height: 100%; object-fit: cover;" />
-</p>
+  <br />
+  
+  <img src="https://i.pinimg.com/originals/32/f5/25/32f5259dda24e6426fef7a0853a55039.gif" width="150" />
+  
+  <img src="card.svg" width="100%" />
+</div>
 
 ---
 
