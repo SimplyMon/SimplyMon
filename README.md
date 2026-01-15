@@ -9,7 +9,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7F6CDB&center=false&vCenter=true&width=500&lines=Welcome+to+my+Github.;Always+learning+new+things.;Building+modern+web+apps.;Let's+collaborate!" />
   </a>
   
-  <br/><br/>
+  <br/>
   
   <a href="https://www.facebook.com/simon.pasag.30">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
@@ -41,6 +41,8 @@
 </tr>
   </table>
 </div>
+
+<br/>
 
 <br/>
 
