@@ -1,26 +1,8 @@
-<div style="position: relative; width: 100%; max-width: 800px; margin: 0 auto; text-align: center;">
+<div align="center">
   <div>
   <h1><span class="wave">👋</span> Hey there! I'm Mon</h1>
   <p><i>A simple guy</i></p>
 </div>
-
-<style>
-.wave {
-  display: inline-block;
-  transform-origin: 70% 70%;
-  animation: wave 1.5s infinite;
-}
-
-@keyframes wave {
-  0% { transform: rotate(0deg); }
-  15% { transform: rotate(15deg); }
-  30% { transform: rotate(-10deg); }
-  45% { transform: rotate(15deg); }
-  60% { transform: rotate(-10deg); }
-  75% { transform: rotate(15deg); }
-  100% { transform: rotate(0deg); }
-}
-</style>
 
   <div style="position: absolute; right: 0; top: 50%; transform: translateY(-50%);">
     <img src="https://i.pinimg.com/originals/32/f5/25/32f5259dda24e6426fef7a0853a55039.gif" width="150" />
