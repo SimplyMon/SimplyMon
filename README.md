@@ -1,25 +1,53 @@
-<h1 align="center">
-  Hey there! 👋 I'm Mon
-</h1>
+<div style="position: relative; width: 100%; max-width: 800px; margin: 0 auto; text-align: center;">
+  <div>
+  <h1><span class="wave">👋</span> Hey there! I'm Mon</h1>
+  <p><i>A simple guy</i></p>
+</div>
+
+<style>
+.wave {
+  display: inline-block;
+  transform-origin: 70% 70%;
+  animation: wave 1.5s infinite;
+}
+
+@keyframes wave {
+  0% { transform: rotate(0deg); }
+  15% { transform: rotate(15deg); }
+  30% { transform: rotate(-10deg); }
+  45% { transform: rotate(15deg); }
+  60% { transform: rotate(-10deg); }
+  75% { transform: rotate(15deg); }
+  100% { transform: rotate(0deg); }
+}
+</style>
+
+  <div style="position: absolute; right: 0; top: 50%; transform: translateY(-50%);">
+    <img src="https://i.pinimg.com/originals/32/f5/25/32f5259dda24e6426fef7a0853a55039.gif" width="150" />
+  </div>
+</div>
 
 <p align="center">
-  <i>I build clean, interactive, and user-friendly web experiences.</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Welcome+to+my+GitHub!;Web+developer+building+practical+solutions." />
 </p>
 
+<!-- Card -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=I+build+cool+things+for+the+web.;I+love+UI%2FUX+and+performance.;JavaScript+is+my+home.;Welcome+to+my+GitHub!" />
-</p>
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/32/f5/25/32f5259dda24e6426fef7a0853a55039.gif" width="300" />
-</p>
-<p align="center">
-  <img src="card.svg" width="100%" />
+  <img src="card.svg" style="width: 100%; max-height: 100%; object-fit: cover;" />
 </p>
 
 ---
 
-## 💖 Tech Stack
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SimplyMon&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SimplyMon&theme=radical" />
+</p>
+
+---
+
+## 💻 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode&theme=light" />
