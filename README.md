@@ -14,7 +14,7 @@
   <img src="https://i.pinimg.com/originals/32/f5/25/32f5259dda24e6426fef7a0853a55039.gif" width="300" />
 </p>
 <p align="center">
-  <img src="card2.svg" width="100%" />
+  <img src="card.svg" width="100%" />
 </p>
 
 ---
